@@ -34,12 +34,8 @@ Extra Credit
 
 Note: If completing the extra credit, you do not need to do both the square version and the extra credit- you can complete only the extra credit.
 
-Sample Output
+This is our Lab's final output
 
-
-
-
-
-If you want to see what this looks like with fewer squares, to get a better sense of what is going on, here are two images that use a minimum side length of 50 and 100. 
+![](/image/finaloutput_star.png)
 
  
