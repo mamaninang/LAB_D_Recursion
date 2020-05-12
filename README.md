@@ -1,5 +1,5 @@
 # LAB_D_Recursion
-LAB_D for JAVA 111C City College San Francisco
+LAB_D for JAVA 111C FALL 2016 City College San Francisco
 
 Write a program that uses recursion to draw squares- one square on the corner of each square. You can write an applet or a standalone GUI program. Either is fine.
 
