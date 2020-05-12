@@ -25,7 +25,7 @@ public class GUITemplate extends JPanel {
 		super.paintComponent(pen);
         
 		int startPoints = DIMENSION/4;
-        star(startPoints, startPoints, INITIAL_LENGTH, INITIAL_LENGTH, pen);
+        	star(startPoints, startPoints, INITIAL_LENGTH, INITIAL_LENGTH, pen);
 	}
     
     private void star(int x, int y, int width, int height, Graphics pen){
